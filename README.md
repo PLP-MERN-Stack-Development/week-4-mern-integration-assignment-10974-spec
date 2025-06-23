@@ -109,6 +109,8 @@ CURRENCY=$  # Or your preferred currency symbol
 
 🚀 **Experience the live application:**  
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=render&logoColor=white)](https://medicare-6h45.onrender.com)  
+admin email  : admin@prescripto.com
+admin-password: admin123
 *Hosted on Render.com for your convenience!*
 
 ---
