@@ -1,6 +1,6 @@
 # 🏥 MediCare - Doctor Appointment System (MERN Stack)
 
-![App Screenshot](/readme-images/banner.png)
+![App Screenshot](banner.png)
 
 
 <p align="center">
